@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PKAPADIA09
+- 👀 I’m interested in Pratyush Kapadia.
+- 🌱 I’m currently learning Software Development.
+- 💞️ I’m looking to collaborate on Application Development.
