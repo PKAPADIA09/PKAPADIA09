@@ -1,5 +1,5 @@
 - Hi 👋 My name is Pratyush Kapadia
-- 👀 I’m interested in Software development and Data
+- 👀 I’m interested in Software development and Machine Learning
 - ✉️ You can contact me at pkapadia09@gmail.com
 - 🌍 I'm based in Plattsburgh, New York
 - 🧠 I'm learning Django
